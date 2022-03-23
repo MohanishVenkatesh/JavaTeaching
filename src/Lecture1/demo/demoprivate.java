@@ -1,4 +1,4 @@
-package com.demo;
+package Lecture1.demo;
 
 public class demoprivate{
     private int a ;

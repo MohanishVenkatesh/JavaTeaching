@@ -1,4 +1,4 @@
-package com.company;
+package Lecture1.company;
 
  class demo2 {
     //keywords : predefined set of variable by java (or any other language )

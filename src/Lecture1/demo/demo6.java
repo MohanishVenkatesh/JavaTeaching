@@ -1,4 +1,4 @@
-package com.demo;
+package Lecture1.demo;
 
 public class demo6 extends demoprivate{
 
@@ -11,6 +11,8 @@ public class demo6 extends demoprivate{
         System.out.println("this is the int b belonging to class demoprivate " + demoprivateobj.b);
 
     }
+
+
 
 
 }

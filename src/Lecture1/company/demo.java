@@ -1,4 +1,4 @@
-package com.company;
+package Lecture1.company;
 // java is case sensitive .
 
 public   class demo {

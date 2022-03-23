@@ -1,7 +1,7 @@
-package com.demo;
+package Lecture1.demo;
 
 
-import com.company.demo;
+import Lecture1.company.demo;
 
 
 public class demo3 extends demo{ // demo3 is in demo package ; demo is in company
